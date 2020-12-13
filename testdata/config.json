@@ -1,0 +1,16 @@
+{
+  "hostname": "http://localhost:8080",
+  "proxy": "",
+  "admin": {
+    "username": "admin",
+    "password": "secret",
+    "realm": "master"
+  },
+  "xbar": {
+    "username": "test",
+    "password": "test",
+    "realm": "xbar",
+    "client_id": "xbar",
+    "client_secret": "xbar-secret"
+  }
+}
